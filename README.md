@@ -33,4 +33,4 @@ TypeError: undefined is not an object (evaluating 'version.startsWith')
 
 ## Related Issue
 
-Filed after publishing this repro.
+https://github.com/overengineeringstudio/effect-utils/issues/748
